@@ -1,4 +1,6 @@
-package main.java.ohtuesimerkki;
+package src.main.java.ohtuesimerkki;
+
+import java.util.Objects;
 
 public class Player implements Comparable<Player> {
 
@@ -58,5 +60,21 @@ public class Player implements Comparable<Player> {
 
     public int compareTo(Player t) {
         return t.getPoints()-this.getPoints();
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Player)) return false;
+        Player player = (Player) o;
+        return goals == player.goals &&
+                assists == player.assists &&
+                Objects.equals(name, player.name) &&
+                Objects.equals(team, player.team);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, team, goals, assists);
     }
 }

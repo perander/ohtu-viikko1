@@ -1,4 +1,4 @@
-package main.java.ohtuesimerkki;
+package src.main.java.ohtuesimerkki;
 
 public class Main {
     public static void main(String[] args) {
