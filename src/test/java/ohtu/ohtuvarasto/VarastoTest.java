@@ -143,7 +143,7 @@ public class VarastoTest {
 
     @Test
     public void toStringPalauttaaOikeanlaisenMerkkijonon() {
-        String halutaan = "saldo = 5.0, vielä tilaa 5";
+        String halutaan = "saldo = 5.0, vielä tilaa 5.0";
         String tulee = varastoSaldolla.toString();
 
 
