@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3167a070-d964-43b2-b261-bf8e66574257" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhlStatistics1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhlStatistics1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NhlStatistics1/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhlStatistics1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhlStatistics1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NhlStatistics1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhlStatistics1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NhlStatistics1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/bin/gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/bin/gradle.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/getting-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/init.d/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/ant-1.9.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/ant-launcher-1.9.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/asm-6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/asm-analysis-6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/asm-commons-6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/asm-tree-6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/commons-compress-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/fastutil-7.2.1-min.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-api-metadata-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-base-services-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-base-services-groovy-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-build-cache-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-build-option-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-cli-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-core-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-core-api-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-docs-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-installation-beacon-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-jvm-services-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-1.0-rc-6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-launcher-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-logging-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-messaging-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-model-core-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-model-groovy-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-native-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-persistent-cache-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-process-services-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-resources-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-runtime-api-info-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-tooling-api-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/gradle-wrapper-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/groovy-all-2.4.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/guava-jdk5-17.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/jansi-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/jcip-annotations-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/jcl-over-slf4j-1.7.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/jsr305-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/jul-to-slf4j-1.7.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-compiler-embeddable-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-reflect-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-sam-with-receiver-compiler-plugin-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-script-runtime-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-stdlib-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-stdlib-common-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-stdlib-jdk7-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kotlin-stdlib-jdk8-1.2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/kryo-2.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/log4j-over-slf4j-1.7.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/minlog-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-freebsd-amd64-libcpp-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-freebsd-amd64-libstdcpp-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-freebsd-i386-libcpp-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-freebsd-i386-libstdcpp-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-linux-amd64-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-linux-amd64-ncurses5-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-linux-amd64-ncurses6-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-linux-i386-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-linux-i386-ncurses5-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-linux-i386-ncurses6-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-osx-amd64-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-osx-i386-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-windows-amd64-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/native-platform-windows-i386-0.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/objenesis-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aether-api-1.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aether-connector-wagon-1.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aether-impl-1.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aether-spi-1.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aether-util-1.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/apiguardian-api-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/asm-util-6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aws-java-sdk-core-1.11.267.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aws-java-sdk-kms-1.11.267.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/aws-java-sdk-s3-1.11.267.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/bcpg-jdk15on-1.58.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/bcprov-jdk15on-1.58.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/biz.aQute.bndlib-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/bsh-2.0b6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/commons-cli-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/commons-codec-1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/dd-plist-1.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/google-api-client-1.23.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/google-api-services-storage-v1-rev116-1.23.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/google-http-client-1.23.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/google-http-client-jackson2-1.23.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/google-oauth-client-1.23.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-announce-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-antlr-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-build-cache-http-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-build-comparison-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-build-init-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-code-quality-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-composite-builds-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-dependency-management-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-diagnostics-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-ear-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-ide-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-ide-native-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-ide-play-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-ivy-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-jacoco-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-javascript-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-language-groovy-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-language-java-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-language-jvm-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-language-native-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-language-scala-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-maven-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-osgi-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-platform-base-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-platform-jvm-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-platform-native-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-platform-play-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-plugin-development-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-plugin-use-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-plugins-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-publish-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-reporting-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-resources-gcs-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-resources-http-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-resources-s3-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-resources-sftp-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-scala-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-signing-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-test-kit-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-testing-base-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-testing-junit-platform-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-testing-jvm-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-testing-native-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-tooling-api-builders-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-tooling-native-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-version-control-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gradle-workers-4.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/gson-2.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/httpclient-4.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/httpcore-4.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/ion-java-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/ivy-2.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jackson-annotations-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jackson-core-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jackson-databind-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jatl-0.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jcifs-1.3.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jcommander-1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jmespath-java-1.11.267.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/joda-time-2.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/jsch-0.1.54.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/junit-platform-commons-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/junit-platform-engine-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/junit-platform-launcher-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-aether-provider-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-artifact-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-compat-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-core-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-model-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-model-builder-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-plugin-api-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-repository-metadata-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-settings-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/maven-settings-builder-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/nekohtml-1.9.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/opentest4j-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/org.eclipse.jgit-4.5.3.201708160445-r.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-cipher-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-classworlds-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-component-annotations-1.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-container-default-1.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-interpolation-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-sec-dispatcher-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/plexus-utils-3.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/pmaven-common-0.8-20100325.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/pmaven-groovy-0.8-20100325.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/rhino-1.7R3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/simple-4.1.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/snakeyaml-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/testng-6.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/wagon-file-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/wagon-http-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/wagon-http-shared4-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/wagon-provider-api-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/xbean-reflect-3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/plugins/xercesImpl-2.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/reflectasm-1.07-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/slf4j-api-1.7.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/lib/xml-apis-1.4.01.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-24x24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle-icon-64x64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-4.10.2/media/gradle.icns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/varasto/Varasto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/varasto/Varasto.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/varasto/Varasto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="647">
+              <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+              <folding>
+                <element signature="e#1173#1174#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1305#1306#0" expanded="true" />
+                <element signature="e#1441#1442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/varasto/Varasto.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ohtu-viikko1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ohtu-viikko1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ohtu-viikko1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ohtu-viikko1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ohtu-viikko1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ohtu-viikko1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ohtuvarasto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ohtu-viikko1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ohtu-viikko1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ohtuvarasto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ohtu-viikko1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ohtu-viikko1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ohtuvarasto" type="462c0819:PsiDirectoryNode" />
+              <item name="varasto" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541685077387" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3167a070-d964-43b2-b261-bf8e66574257" name="Default Changelist" comment="" />
+      <created>1541637899321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541637899321</updated>
+      <workItem from="1541637903184" duration="2035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2035000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="993" y="25" width="927" height="1055" extended-state="4" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21452895" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/varasto/Varasto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+          <folding>
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ohtu-viikko1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

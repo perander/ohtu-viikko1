@@ -1,5 +1,5 @@
-package main;
-import varasto.Varasto;
+/*package main.java.ohtu.ohtuvarasto.main;
+import main.java.ohtu.ohtuvarasto.varasto.Varasto;
 
 public class Main {
 
@@ -57,3 +57,4 @@ public class Main {
         System.out.println("Mehuvarasto: " + mehua);
     }
 }
+*/

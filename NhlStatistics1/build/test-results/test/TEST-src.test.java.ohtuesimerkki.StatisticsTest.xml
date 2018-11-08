@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.test.java.ohtuesimerkki.StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-11-07T07:26:06" hostname="Opa" time="0.004">
+  <properties/>
+  <testcase name="väärälläNimelläEiLöydyKetään" classname="src.test.java.ohtuesimerkki.StatisticsTest" time="0.002"/>
+  <testcase name="huippuPelaajatLöytyvät" classname="src.test.java.ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="joukkueenJäsenLöytyyJäsenenNimellä" classname="src.test.java.ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="joukkueenJäsenetLöytyvätJoukkueenNimellä" classname="src.test.java.ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

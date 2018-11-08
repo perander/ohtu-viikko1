@@ -7,12 +7,14 @@
  */
 
 // Apply the java plugin to add support for Java
-apply plugin: 'java'
+apply plugin: "java"
 
 // Apply the application plugin to add support for building an application
-apply plugin: 'application'
+apply plugin: "application"
 
 apply plugin: "jacoco"
+
+apply plugin: "checkstyle"
 
 // In this section you declare where to find the dependencies of your project
 repositories {
@@ -29,14 +31,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
-// Define the main class for the application
-mainClassName = 'main.Main'
-
-jar {
-    manifest {
-        attributes 'Main-Class': 'main.Main'
-    }
-}
 
 jacocoTestReport {
     reports {
@@ -46,7 +40,22 @@ jacocoTestReport {
     afterEvaluate {
         classDirectories = files(classDirectories.files.collect {
             fileTree(dir: it,
-                    exclude: ['main/**'])
+                    exclude: ["main/**"])
         })
     }
+}
+
+
+	// Define the main class for the application
+mainClassName = 'main.java.ohtu.ohtuvarasto.main.Main'
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'main.java.ohtu.ohtuvarasto.main.Main'
+    }
+}
+
+checkstyle {
+  toolVersion = '6.10.1'
+  checkstyleTest.enabled = false
 }

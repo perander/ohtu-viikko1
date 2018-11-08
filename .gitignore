@@ -1,4 +1,5 @@
 
 *.tmp
-build/
-
+build/*
+Ohjelmistotuotanto2018/*
+.gradle/
